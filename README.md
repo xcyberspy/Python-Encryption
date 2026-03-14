@@ -8,12 +8,6 @@
 
 <h2>🚀 Demo</h2>
 
-[click here](http://chatgptv4.com/)
-
-<h2>Project Screenshots:</h2>
-
-<img src="http://chatgptv4.com/" alt="project-screenshot" width="400" height="400/">
-
   
   
 <h2>🧐 Features</h2>
